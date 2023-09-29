@@ -396,7 +396,8 @@ h6 { font-size: 16px; }
 	margin-right: 0px;
 }
 .dizme_tm_header .menu ul li.current a{
-	color: #f75023;
+	color: #1DA1F3; 
+	/* #f75023 */
 }
 .dizme_tm_header .menu ul li a:hover{
 	color: #f75023;
